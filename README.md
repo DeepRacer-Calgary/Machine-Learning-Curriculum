@@ -34,11 +34,11 @@ Here are some statistical tool you can use not only instead of machine learning,
 
 ### Tools:
 
-MATLAB: Very commonly used in statistical learning, I personally find it useful to see if there is an analytical solution to a problem before trying an inetrative approach. (This is often a long process, and sometimes a longer formula. This is the reason I appreciate MATLAB)
+ * MATLAB: Very commonly used in statistical learning, I personally find it useful to see if there is an analytical solution to a problem before trying an inetrative approach. (This is often a long process, and sometimes a longer formula. This is the reason I appreciate MATLAB)
 
-Python / Numpy / Tensorflow: Python is a very commonly used language in machine learning and you will see it in use while training on AWS' deepracer. There is a large collection of frameworks and support for python in addition to it being a very user-friendly language.
+ * Python / Numpy / Tensorflow: Python is a very commonly used language in machine learning and you will see it in use while training on AWS' deepracer. There is a large collection of frameworks and support for python in addition to it being a very user-friendly language.
 
-C++ / Eigen: A favorite of mine, while not beginner friendly, C++ and Eigen are a powerful combination of tools for linear algebra analysis. Out of the above languages, this is the lightest and can even run on an Arduino.
+ * C++ / Eigen: A favorite of mine, while not beginner friendly, C++ and Eigen are a powerful combination of tools for linear algebra analysis. Out of the above languages, this is the lightest and can even run on an Arduino.
 
 
 ### Examples: 
