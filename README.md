@@ -54,4 +54,5 @@ Now lets take our first step into the wonderful world of machine learning. There
  * Reinforcement - Data decides for itself how to procede based on a user defined reward function. We will go more in depth on this is a later chapter.
 
 **Supervised vs. Unsupervised Learning**
+
 [![Supervised vs. Unsupervised Learning](https://img.youtube.com/vi/rHeaoaiBM6Y/0.jpg)](https://www.youtube.com/watch?v=rHeaoaiBM6Y&list=WL&index=1&ab_channel=EyeonTech)
