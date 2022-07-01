@@ -14,7 +14,7 @@ If you would like to go more in depth than that then go ahead and complete the s
  * See the section 1 folder for your first hands on example
 
 
-## Section 2 - Types of Math used in Artificial Intelligence (Can always move stuff aeound like putting this in Section 5 for advanced materials):
+## Section 2 - Types of Math used in Artificial Intelligence (Can always move stuff around like putting this in Section 5 for advanced materials):
 
 Machine learning like everything you learn in university, is a tool. It is a very powerful tool, but a tool nonetheless. You wouldn't use a sledgehammer when you need a saw, or even a smaller hand tool.
 
