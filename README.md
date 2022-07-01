@@ -30,7 +30,9 @@ Here are some statistical tool you can use not only instead of machine learning,
 
  * [Principle Component Analysis](https://www.youtube.com/watch?v=HMOI_lkzW08&ab_channel=StatQuestwithJoshStarmer) - PCA is very similar to the above SVD in that it finds the most commmon components in the data you give it. Much like giving it macy recipes and classifying them into your fundamental recipes, of a baked good, a caserole, or a steak dinner. 
 
- * ...TBD
+ * SVMs...
+ 
+ * TBD
 
 ### Tools:
 
@@ -43,16 +45,13 @@ Here are some statistical tool you can use not only instead of machine learning,
 
 ### Examples: 
  * TBD
- 
 
 
+## Section 3 - Intro to Machine Learning:
+Now lets take our first step into the wonderful world of machine learning. There are many catagories to machine learning, but the most common you will hear about are:
+ * Supervised - Where data is given with labels so the model knows what to expect.
+ * Unsupervised - Data is given without labels and the model decides how to catagorize the data itsself.
+ * Reinforcement - Data decides for itself how to procede based on a user defined reward function. We will go more in depth on this is a later chapter.
 
-
-
-
-
-
-
-
-
-
+**Supervised vs. Unsupervised Learning**
+[![Supervised vs. Unsupervised Learning](https://img.youtube.com/vi/rHeaoaiBM6Y&list=WL/0.jpg)](https://www.youtube.com/watch?v=rHeaoaiBM6Y&list=WL&index=1&ab_channel=EyeonTech)
