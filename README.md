@@ -67,5 +67,12 @@ Now lets take our first step into the wonderful world of machine learning. There
 [![Supervised vs. Unsupervised Learning](https://img.youtube.com/vi/rHeaoaiBM6Y/0.jpg)](https://www.youtube.com/watch?v=rHeaoaiBM6Y&list=WL&index=1&ab_channel=EyeonTech)
 
 ### Examples:
-In my opinion, the best way to learn the hardest topics is to get hands on experience, check out thesse repositories below, clone them to your computer, and follow the instructions.
+In my opinion, the best way to learn the hardest topics is to get hands on experience. See the repositories below, clone them to your computer, and follow the instructions, best of luck!
  * TBD
+
+
+## Section 4 - Reinforcement learning
+Finally to the goal. Now, if you are a little rusty on the basics, you may want to revise before jumping into the deep end. If you are feeling comfortable or adventureous then read on. 
+
+
+Thorough and dense resources for a better understanding of reinforcement learning and it's challenges: [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)
