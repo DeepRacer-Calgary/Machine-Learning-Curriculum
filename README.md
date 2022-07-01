@@ -12,6 +12,13 @@ If you would like to go more in depth than that then go ahead and complete the s
 
 ## Section 2 - Types of Math used in Artificial Intelligence:
 
+Machine learning like everything you learn in university, is a tool. It is a very powerful tool, but a tool nonetheless. You wouldn't use a sledgehammer when you need a saw, or even a smaller hand tool.
+
+You will likely encounter problem where you think: "Can this be solved by machine learning?" and the answer is often yes... but. Another question you should ask is *should* you use machine learning?
+
+Here are some statistical tool you can use not only instead of machine learning, but also in addition to it:
+
+
 
 
 
