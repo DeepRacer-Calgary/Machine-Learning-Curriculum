@@ -32,7 +32,16 @@ Here are some statistical tool you can use not only instead of machine learning,
 
  * SVMs...
  
+ * Naive Bayes...
+
+ * Logistic Regression...
+ 
+ * K-Nearest Neighbor...
+ 
+ * Random Forest...
+ 
  * TBD
+
 
 ### Tools:
 
@@ -56,3 +65,7 @@ Now lets take our first step into the wonderful world of machine learning. There
 **Supervised vs. Unsupervised Learning**
 
 [![Supervised vs. Unsupervised Learning](https://img.youtube.com/vi/rHeaoaiBM6Y/0.jpg)](https://www.youtube.com/watch?v=rHeaoaiBM6Y&list=WL&index=1&ab_channel=EyeonTech)
+
+### Examples:
+In my opinion, the best way to learn the hardest topics is to get hands on experience, check out thesse repositories below, clone them to your computer, and follow the instructions.
+ * TBD
