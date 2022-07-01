@@ -14,7 +14,7 @@ If you would like to go more in depth than that then go ahead and complete the s
  * TBD
 
 
-## Section 2 - Types of Math used in Artificial Intelligence:
+## Section 2 - Types of Math used in Artificial Intelligence (Can always move stuff aeound like putting this in Section 5 for advanced materials):
 
 Machine learning like everything you learn in university, is a tool. It is a very powerful tool, but a tool nonetheless. You wouldn't use a sledgehammer when you need a saw, or even a smaller hand tool.
 
@@ -76,3 +76,8 @@ Finally to the goal. Now, if you are a little rusty on the basics, you may want 
 
 
 Thorough and dense resources for a better understanding of reinforcement learning and it's challenges: [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)
+
+
+
+## Section 5 - Advanced Topics
+This section will contain more complex and interesting topics, and is largely more broad than past sections
