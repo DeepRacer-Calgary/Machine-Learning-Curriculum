@@ -8,7 +8,7 @@ Episodes 1 & 2 of Grant Sanderson's series on neural networks is a thorough and 
 [![Gradient descent, how neural networks learn](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
 [![But what is a neural network?](https://img.youtube.com/vi/IHZwWFHWa-w/0.jpg)](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
-If you would like to go more in depth than that then go ahead and complete the series, but in my opinion, these are the best videos for the time commitment. That will be my philosophy though this tutorial, but if you want more materials for a better understanding, we will have those too: [Complete Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+If you would like to go more in depth than that then go ahead and complete the series, but in my opinion, these are the best videos for the time commitment. That will be my philosophy though this tutorial, but if you want more materials for a better understanding, we will have those available too: [Complete Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### Examples: 
  * See the [section 1 folder](https://github.com/nickrallison/Machine_Learning_Curriculum/tree/main/Section%201%20-%20The%20Basics) for your first hands on example
