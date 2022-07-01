@@ -11,7 +11,7 @@ Episodes 1 & 2 of Grant Sanderson's series on neural networks is a thorough and 
 If you would like to go more in depth than that then go ahead and complete the series, but in my opinion, these are the best videos for the time commitment. That will be my philosophy though this tutorial, but if you want more materials for a better understanding, we will have those too: [Complete Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### Examples: 
- * See the section 1 folder for your first hands on example
+ * See the [section 1 folder](https://github.com/nickrallison/Machine_Learning_Curriculum/tree/main/Section%201%20-%20The%20Basics) for your first hands on example
 
 
 ## Section 2 - Types of Math used in Artificial Intelligence (Can always move stuff around like putting this in Section 5 for advanced materials):
