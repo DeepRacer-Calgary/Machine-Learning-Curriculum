@@ -12,11 +12,17 @@ Learning a coding language is a time commitment, but here is a time efficient tu
 
 The important parts of python we will use are, in order:
 Variables, Assignment, and Printing - Containers, and storing numbers in the containers - [Tutorial](https://www.pythontutorial.net/python-basics/python-variables/)
+
 Operators - How Python does math for you - [Tutorial](https://www.tutorialspoint.com/python/python_basic_operators.htm)
+
 Arrays - How to store many numbers
+
 Loops - How Python can repeat a task for you
+
 Conditions - How Python can make decisions
+
 Functions - How to repeat yourself less
+
 
 Some more advanced topics you may find helpful:
 Pass by value vs. Pass by reference
