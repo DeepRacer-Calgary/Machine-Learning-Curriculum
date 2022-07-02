@@ -1,6 +1,16 @@
 # Machine Learning Curriculum
-A proposed Curriculum to guide people into understanding the fundamentals of Machine Learning and prepare them for Reinforcement Learning
+A curriculum to guide people into understanding the fundamentals of Machine Learning and prepare them for Reinforcement Learning
 
+## Introduction - Python:
+To do any machine learning work, you will need a basic understanding of Python. 
+
+If you are familiar with Python then you should skip this section.
+
+Learning a coding language is not as daunting as it sounds, as understanding the absolute basics makes everything easier. All a program is, is a set of instructions. If you read from the top of the program to the bottom and ask what each line means, you can translate a program back to an english set of instructions.
+
+
+
+Learning a coding language is a time commitment, but here is a time efficient tutorial: [Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&ab_channel=ProgrammingwithMosh)
 
 ## Section 1 - The Basics:
 Episodes 1 & 2 of Grant Sanderson's series on neural networks is a thorough and concise introduction to what the purpose of machine learning is, how it works, and most importantly, how to understand it.
