@@ -1,7 +1,7 @@
 # Machine Learning Curriculum
 A curriculum to guide people into understanding the fundamentals of Machine Learning and prepare them for Reinforcement Learning
 
-## Introduction - Python:
+## Introduction - Python: - Todo See if this has any inspiration: https://github.com/Akuli/python-tutorial
 To do any machine learning work, you will need a basic understanding of Python. 
 
 If you are familiar with Python then you should skip this section.
