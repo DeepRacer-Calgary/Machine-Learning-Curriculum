@@ -26,8 +26,11 @@ Functions - How to repeat yourself less
 
 
 Some more advanced topics you may find helpful:
+
 Pass by value vs. Pass by reference
+
 Pip
+
 Numpy and Scikit Learn
 
 ## Section 1 - The Basics:
