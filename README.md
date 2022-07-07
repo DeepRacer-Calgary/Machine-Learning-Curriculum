@@ -12,17 +12,12 @@ Learning a coding language is a time commitment, but here is a time efficient tu
 <br/>
 The important parts of python we will use are, in order:
 
-Variables, Assignment, and Printing - Containers, and storing numbers in the containers - [Tutorial](https://www.pythontutorial.net/python-basics/python-variables/)
-
-Operators - How Python does math for you - [Tutorial](https://www.tutorialspoint.com/python/python_basic_operators.htm)
-
-Arrays - How to store many numbers - [Tutorial](https://www.w3schools.com/python/python_arrays.asp)
-
-Conditions - How Python can make decisions - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)
-
-Loops - How Python can repeat a task for you - [Tutorial](https://www.w3schools.com/python/python_for_loops.asp)
-
-Functions - How to repeat yourself less - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)<br/>
+ * Variables, Assignment, and Printing - Containers, and storing numbers in the containers - [Tutorial](https://www.pythontutorial.net/python-basics/python-variables/)
+ * Operators - How Python does math for you - [Tutorial](https://www.tutorialspoint.com/python/python_basic_operators.htm)
+ * Arrays - How to store many numbers - [Tutorial](https://www.w3schools.com/python/python_arrays.asp)
+ * Conditions - How Python can make decisions - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)
+ * Loops - How Python can repeat a task for you - [Tutorial](https://www.w3schools.com/python/python_for_loops.asp)
+ * Functions - How to repeat yourself less - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)
 
 Some more advanced topics you may find helpful:
 
