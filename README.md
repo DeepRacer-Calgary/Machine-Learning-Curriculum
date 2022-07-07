@@ -9,20 +9,20 @@ If you are familiar with Python then you should skip this section.
 Learning a coding language is not as daunting as it sounds, as understanding the absolute basics makes everything easier. All a program is, is a set of instructions. If you read from the top of the program to the bottom and ask what each line means, you can translate a program back to an english set of instructions.
 
 Learning a coding language is a time commitment, but here is a time efficient tutorial: [Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&ab_channel=ProgrammingwithMosh). There are other resources out there but this is an overview of the basics.
-
+<br/>
 The important parts of python we will use are, in order:
 
 Variables, Assignment, and Printing - Containers, and storing numbers in the containers - [Tutorial](https://www.pythontutorial.net/python-basics/python-variables/)
 
 Operators - How Python does math for you - [Tutorial](https://www.tutorialspoint.com/python/python_basic_operators.htm)
 
-Arrays - How to store many numbers
+Arrays - How to store many numbers - [Tutorial](https://www.w3schools.com/python/python_arrays.asp)
 
-Loops - How Python can repeat a task for you
+Conditions - How Python can make decisions - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)
 
-Conditions - How Python can make decisions
+Loops - How Python can repeat a task for you - [Tutorial](https://www.w3schools.com/python/python_for_loops.asp)
 
-Functions - How to repeat yourself less
+Functions - How to repeat yourself less - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)
 
 
 Some more advanced topics you may find helpful:
