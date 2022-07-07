@@ -26,7 +26,7 @@ Some more advanced topics you may find helpful:
  * [Numpy](https://numpy.org/doc/stable/index.html) and [Sci Kit Learn](https://realpython.com/python-pass-by-reference/)
 
 ### Examples: 
- * See the [Introduction folder](https://github.com/DeepRacer-Calgary/Machine_Learning_Curriculum/tree/main/Section%201%20-%20The%20Basics) for some practice problems.
+ * See the [Introduction folder](https://github.com/DeepRacer-Calgary/Machine-Learning-Curriculum/tree/main/Section%201%20-%20The%20Basics) for some practice problems.
  * More Practice [Problems](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
 
 ## Section 1 - The Basics:
@@ -38,7 +38,7 @@ Episodes 1 & 2 of Grant Sanderson's series on neural networks is a thorough and 
 If you would like to go more in depth than that then go ahead and complete the series, but in my opinion, these are the best videos for the time commitment. That will be my philosophy though this tutorial, but if you want more materials for a better understanding, we will have those available too: [Complete Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### Examples: 
- * See the [Section 1 folder](https://github.com/DeepRacer-Calgary/Machine_Learning_Curriculum/tree/main/Section%201%20-%20The%20Basics) for your first hands on example
+ * See the [Section 1 folder](https://github.com/DeepRacer-Calgary/Machine-Learning-Curriculum/tree/main/Section%201%20-%20The%20Basics) for your first hands on example
 
 
 ## Section 2 - Types of Math used in Artificial Intelligence (Can always move stuff around like putting this in Section 5 for advanced materials):
