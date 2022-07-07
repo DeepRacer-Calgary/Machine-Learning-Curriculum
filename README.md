@@ -26,7 +26,8 @@ Some more advanced topics you may find helpful:
  * [Numpy](https://numpy.org/doc/stable/index.html) and [Sci Kit Learn](https://realpython.com/python-pass-by-reference/)
 
 ### Examples: 
- * See the [Introduction folder](https://github.com/DeepRacer-Calgary/Machine_Learning_Curriculum/tree/main/Section%201%20-%20The%20Basics) for your first hands on example
+ * See the [Introduction folder](https://github.com/DeepRacer-Calgary/Machine_Learning_Curriculum/tree/main/Section%201%20-%20The%20Basics) for some practice problems.
+ * More Practice [Problems](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
 
 ## Section 1 - The Basics:
 Episodes 1 & 2 of Grant Sanderson's series on neural networks is a thorough and concise introduction to what the purpose of machine learning is, how it works, and most importantly, how to understand it.
