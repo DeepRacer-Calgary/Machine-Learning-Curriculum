@@ -22,8 +22,7 @@ Conditions - How Python can make decisions - [Tutorial](https://www.w3schools.co
 
 Loops - How Python can repeat a task for you - [Tutorial](https://www.w3schools.com/python/python_for_loops.asp)
 
-Functions - How to repeat yourself less - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)
-
+Functions - How to repeat yourself less - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)<br/>
 
 Some more advanced topics you may find helpful:
 
