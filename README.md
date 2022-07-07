@@ -60,18 +60,8 @@ Here are some statistical tool you can use not only instead of machine learning,
  * [Singular Value Decomposition](https://www.youtube.com/watch?v=gXbThCXjZFM&ab_channel=SteveBrunton) - This is a personal favorite of mine. The singular value decomposition (or SVD) is a tool often used with very *very* large datasets. It finds the "Principle Components" of that data from which every other component is made, much like the Fourier Transform finds underlying frequencies in a signal.
 
  * [Principle Component Analysis](https://www.youtube.com/watch?v=HMOI_lkzW08&ab_channel=StatQuestwithJoshStarmer) - PCA is very similar to the above SVD in that it finds the most commmon components in the data you give it. Much like giving it macy recipes and classifying them into your fundamental recipes, of a baked good, a caserole, or a steak dinner. 
-
- * [Support Vector Machines](https://www.youtube.com/watch?v=Y6RRHw9uN9o&ab_channel=AugmentedStartups) - ...
  
- * Naive Bayes...
-
- * Logistic Regression...
- 
- * K-Nearest Neighbor...
- 
- * Random Forest...
- 
- * TBD
+ * [Sci Kit Learn](https://realpython.com/python-pass-by-reference/) has a lot of documentation on all of the above and more!
 
 
 ### Tools:
