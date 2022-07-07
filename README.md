@@ -21,11 +21,9 @@ The important parts of python we will use are, in order:
 
 Some more advanced topics you may find helpful:
 
-Pass by value vs. Pass by reference
-
-Pip
-
-Numpy and Scikit Learn
+ * Pass by value vs. Pass by reference
+ * [Pip](https://realpython.com/lessons/what-is-pip-overview/)
+ * Numpy and Scikit Learn
 
 ## Section 1 - The Basics:
 Episodes 1 & 2 of Grant Sanderson's series on neural networks is a thorough and concise introduction to what the purpose of machine learning is, how it works, and most importantly, how to understand it.
