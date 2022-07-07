@@ -18,6 +18,7 @@ The important parts of python we will use are, in order:
  * Conditions - How Python can make decisions - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)
  * Loops - How Python can repeat a task for you - [Tutorial](https://www.w3schools.com/python/python_for_loops.asp)
  * Functions - How to repeat yourself less - [Tutorial](https://www.w3schools.com/python/python_conditions.asp)
+ * Dictionaries - Strings or other values as indeces to an array - [Tutorial](https://www.programiz.com/python-programming/dictionary) (Helpful for machine learning as usually datasets are stored in a dict)
 
 Some more advanced topics you may find helpful:
 
